@@ -1,0 +1,4 @@
+20220323	11:24:36	bbe787d1-1bec-47fc-b549-e0a7f4a33212	Log event emitted
+20220323	11:24:58	701297cf-f001-4be5-80da-b7b391fb22e3	Log event emitted
+20220323	11:25:40	788530ba-820c-4094-a3ca-7eb210ea4f41	Log event emitted
+20220323	11:38:11	470ca542-005c-42dc-9ca1-21c6ea2726da	Log event emitted
